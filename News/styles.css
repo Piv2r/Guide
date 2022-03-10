@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/* * {
+  padding: 0;
+  margin: 0;
+} */
+.logo {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.prewy {
+  width: 750px;
+  height: 100;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding-top: 30px;
+  background: #eaf1f7;
+  padding: 60px 60px;
+}
+
+.block {
+  padding: 15px 20px;
+  margin-bottom: 20px;
+  font-family: system-ui;
+  background: #d5e9fa;
+}
+
+.textNews {
+  font-family: system-ui;
+}
+
+.avatar {
+  width: 200px;
+  border-radius: 28px;
+  box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+}
